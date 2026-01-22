@@ -1,1 +1,6 @@
-.env
+.env*
+profiles.yml
+logs/
+*.log
+*.tmp
+*.swp
